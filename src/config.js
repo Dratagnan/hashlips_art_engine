@@ -5,8 +5,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
+const namePrefix = "Hyuga DAO";
+const description = "Hyuga DAO is a group of people with a special ability! It is an investment group that aims to work and develop their competence in the world of NFT and Bluechip research.";
 const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
